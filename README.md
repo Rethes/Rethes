@@ -4,22 +4,21 @@
  
 # Hi there, I'm Esther Mutua 👋
  
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+A passionate and results-driven Software Engineer with 5 years of professional experience delivering high-quality software solutions. My journey in software development has allowed me to collaborate with distributed teams, build user-friendly web interfaces, and contribute to projects that make the web a better place. I take pride in shipping robust, maintainable code and enjoy the challenge of tackling complex problems, always with accessibility and usability in mind..
  
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
+- 🔭 **Current Focus:** ReliabilityNet: A Web-Based News Aggregator Using Ensemble NLP Models for Sentiment Analysis, Clickbait Detection, and Reliability Scoring
 
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
+- 🌱 **Learning & Exploration:** Training Models 
 
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- ⚡ **Core Interests:** Project Management, Software Engineering
  
 ---
  
 ## Technical Ecosystem
  
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
- 
 ### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[Technology_1]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Technology_2]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/[Javascript]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Python]-F7DF1E?style=for-the-badge&logoColor=black" /> 
+<!-- <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" /> -->
  
 ### Tooling, Infrastructure & Ecosystem
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -28,7 +27,7 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
  
 ## GitHub Stats
 
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
+<Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rethes&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
@@ -38,7 +37,6 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rethes&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 </p>
 
 ---
